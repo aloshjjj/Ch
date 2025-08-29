@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC 1 FHD (H.265)" t>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC 2 FHD (H.265)" t>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC 3 FHD (H.265)" t>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC 4 FHD (H.265)" t>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC Action FHD (H.26>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC Max FHD (H.265)">
+http://ninja-tv.com:80/AboAdaSat/01023740027/286058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC Drama FHD (H.265>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC Drama+ FHD (H.26>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC Iraq FHD (H.265)>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC Bollywood FHD (H>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: MBC Masr Drama FHD (>
+http://ninja-tv.com:80/AboAdaSat/01023740027/286063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Mehwer FHD (H.265)" >
+http://ninja-tv.com:80/AboAdaSat/01023740027/286064.m3u8
